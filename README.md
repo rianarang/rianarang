@@ -15,7 +15,7 @@
 <h1 align="center">Hi 👋, I'm Ria Narang (she/her)</h1>
 <h3 align="center">iOS Engineer based in Toronto</h3>
 
-- 🌱 I’m currently studying **Mechatronics Engineering at the University of Waterloo**
+- 🌱 Currently studying **Mechatronics Engineering at the University of Waterloo**
 
 - 🔭 I’m currently working at **Autodesk as an iOS Engineer**
 
