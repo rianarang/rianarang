@@ -5,7 +5,7 @@
 -->
 
 <!-- - 📚  Mechatronics Engineering Student at the University of Waterloo
-- 🔭  I’m currently working at Autodesk as an iOS Engineer
+- 🔭  I’m currently working at Autodesk as an iOS Engineering Intern
 - 🏦  Previously worked at TD Bank as a Software Developer Intern on their Payments Innovation team
 - 📫  How to reach me: r4narang@uwaterloo.ca
 - 😄  Pronouns: she/her
@@ -13,8 +13,8 @@
  -->
 
 <h1 align="center">Hi 👋, I'm Ria Narang (she/her)</h1>
-<h3 align="center">iOS Engineer based in Toronto</h3>
-
+<!-- <h3 align="center">iOS Engineer based in Toronto</h3>
+ -->
 - 🌱 Currently studying **Mechatronics Engineering at the University of Waterloo**
 
 - 🔭 I’m currently working at **Autodesk as an iOS Engineer**
