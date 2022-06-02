@@ -17,9 +17,7 @@
  -->
 - 🌱 Currently studying **Mechatronics Engineering at the University of Waterloo**
 
-- 🔭 I’m currently working at **Autodesk as an iOS Engineer**
-
-- 🏦 I previously worked at **TD Bank as a Software Developer**
+- 🔭 I’m previously worked at **Autodesk as an iOS Engineer and TD Bank as a Software Developer**
 
 - 📫 How to reach me **r4narang@uwaterloo.ca**
 
