@@ -19,7 +19,7 @@
 
 - 🔭 I’m previously worked at **Autodesk as an iOS Engineer and TD Bank as a Software Developer**
 
-- 📫 How to reach me **r4narang@uwaterloo.ca**
+- 📫 How to reach me **rianarang6@gmail.com**
 
 - 🏃 Fun fact **I have run over 7 marathons and triathlons**
 
